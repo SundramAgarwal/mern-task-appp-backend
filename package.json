@@ -1,8 +1,8 @@
 {
-  "name": "mern-task-manager",
+  "name": "mern-task-appp",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "start": "node backend/server.js",
     "backend": "nodemon backend/server.js",
